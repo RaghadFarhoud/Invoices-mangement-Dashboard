@@ -63,10 +63,6 @@
                 <div class="card-header pb-0">
                     <div class="d-flex justify-content-between">
                         <h4 class="card-title mg-b-0">Products Table</h4>
-
-
-
-
                         <i class="mdi mdi-dots-horizontal text-gray"></i>
                         <div class="col-sm-6 col-md-3">
                             <button class="btn btn-dark-gradient btn-block data-effect="effect-scale" data-toggle="modal" href="#modaldemo8"">Add product</button>
